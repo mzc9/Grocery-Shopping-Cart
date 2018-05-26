@@ -9,4 +9,6 @@ Design description given in the design document
 
 Test plan and results are in the testing folder
 
-The project was created in a linux distro and designed to run in the terminal.
+The project was created in a linux distro and designed to run in the terminal.  
+
+To run the program, ensure that all files from the code folder are downloaded in the same location.  Run the make command in the terminal.
