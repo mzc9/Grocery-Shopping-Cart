@@ -1,0 +1,24 @@
+Project - Grocery Shopping list
+================================
+
+You need to design, implement and test a grocery shopping list program.  The program should maintain and display a list of items.
+
+You will design:
+
+a) An Item class with the following information:
+ 	- item name
+ 	- unit
+ 	- quantity to buy
+ 	- unit price
+
+b) A List class which store Item objects in the List object.  You will need to use a dynamic array to hold Item objects
+
+c) Program should perform the following activities:
+
+	- create a list
+	- add items
+	- remove items
+	- display the shopping list
+	
+
+
